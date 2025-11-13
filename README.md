@@ -1,7 +1,7 @@
 <!-- 🧠 SMART TO-DO LIST README -->
 
 <p align="center">
-  <img src="./screennshot.png" alt="Smart To-Do List Banner" width="80%">
+  <img src="./screennshot.png.png" alt="Smart To-Do List Banner" width="80%">
 </p>
 
 <h1 align="center">🧠 Smart To-Do List</h1>
