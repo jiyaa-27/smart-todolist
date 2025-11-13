@@ -7,42 +7,53 @@
 <h1 align="center">🧠 Smart To-Do List</h1>
 
 <p align="center">
-  <b>Organize your tasks • Stay productive • Achieve more</b><br/>
-  <sub>Built with ❤️ using React, Vite & LocalStorage</sub>
+  <b>Stay productive, organized, and on top of your goals</b><br/>
+  <sub>Built with ❤️ using React, Vite, and LocalStorage</sub>
 </p>
 
 ---
 
-## 🚀 Overview
+## 🚀 Project Overview
 
-**Smart To-Do List** is a sleek and efficient task manager web app built using **React (Vite)**.  
-It allows users to **add, edit, delete, and track** daily tasks effortlessly.  
-Your data stays safe even after closing the browser — thanks to **localStorage** integration!
+**Smart To-Do List** is a modern and interactive web application designed to help users manage their daily tasks effectively.  
+You can **add, edit, delete, and mark tasks as completed**, all with a smooth and responsive UI.  
+Your data is safely stored in the browser using **LocalStorage**, so your progress never disappears!
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Live Demo
+
+🚀 **Check it out here:**  
+👉 [Smart To-Do List (Live on Netlify)](https://spontaneous-pithivier-3539d1.netlify.app/)
+
+---
+
+## 🧠 Key Features
+
+✨ Add, Edit, and Delete tasks easily  
+✅ Mark tasks as completed or pending  
+📅 Display and manage due dates  
+💾 Auto-save tasks using LocalStorage  
+📱 Responsive design for mobile and desktop  
+🎨 Clean, modern, and minimalist UI  
+
+---
+
+## 🛠️ Tech Stack Used
 
 | Category | Technologies |
 |:--|:--|
 | ⚛️ Frontend | React (Vite), JavaScript (ES6+), HTML5, CSS3 |
 | 🗂️ Storage | LocalStorage |
 | 🎨 Styling | Modern CSS, Flexbox, Responsive Design |
-| 🧩 Tools | UUID, Date-Fns |
-| 🚀 Deployment | GitHub Pages / Netlify |
+| 🧩 Utilities | UUID, Date-Fns |
+| 🚀 Deployment | Netlify, GitHub |
 
 ---
 
-## 🌟 Features
 
-✨ Add, Edit, and Delete tasks  
-✅ Mark tasks as completed or pending  
-📅 Display due dates using **Date-Fns**  
-🔍 Filter tasks (All / Active / Completed)  
-💾 Auto-save tasks in **localStorage**  
-📱 Fully Responsive Design  
 
----
+
 
 
 
