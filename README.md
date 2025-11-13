@@ -49,7 +49,7 @@ Your data is safely stored in the browser using **LocalStorage**, so your progre
 | 🧩 Utilities | UUID, Date-Fns |
 | 🚀 Deployment | Netlify, GitHub |
 
----
+
 
 
 
